@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://mag.trexlive.me:80/play/live.php?mac=A0:BB:3E:42:A2:9C&stream=225740&extension=m3u8
