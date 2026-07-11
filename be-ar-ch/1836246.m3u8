@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://line.iptvhunt.com:80/play/live.php?mac=A0:BB:3E:77:64:0F&stream=1836246&extension=m3u8
